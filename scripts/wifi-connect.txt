@@ -1,0 +1,1 @@
+nmcli device wifi connect "Newcompass Zochin2.4GHz" password "Newcompass-start"
